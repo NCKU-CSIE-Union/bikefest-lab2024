@@ -1,3 +1,8 @@
+#include <stdio.h>
+#include <string.h>
+#include <unistd.h>
+#include <math.h>
+
 int main() {
     float A = 0, B = 0;
     float i, j;
